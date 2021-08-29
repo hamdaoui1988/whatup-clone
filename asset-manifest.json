@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/whatup-clone/static/css/main.3fb8dbf7.chunk.css",
+    "main.js": "/whatup-clone/static/js/main.2f6a7291.chunk.js",
+    "main.js.map": "/whatup-clone/static/js/main.2f6a7291.chunk.js.map",
+    "runtime-main.js": "/whatup-clone/static/js/runtime-main.e35da199.js",
+    "runtime-main.js.map": "/whatup-clone/static/js/runtime-main.e35da199.js.map",
+    "static/js/2.e2a64fb5.chunk.js": "/whatup-clone/static/js/2.e2a64fb5.chunk.js",
+    "static/js/2.e2a64fb5.chunk.js.map": "/whatup-clone/static/js/2.e2a64fb5.chunk.js.map",
+    "static/js/3.57014b2a.chunk.js": "/whatup-clone/static/js/3.57014b2a.chunk.js",
+    "static/js/3.57014b2a.chunk.js.map": "/whatup-clone/static/js/3.57014b2a.chunk.js.map",
+    "index.html": "/whatup-clone/index.html",
+    "static/css/main.3fb8dbf7.chunk.css.map": "/whatup-clone/static/css/main.3fb8dbf7.chunk.css.map",
+    "static/js/2.e2a64fb5.chunk.js.LICENSE.txt": "/whatup-clone/static/js/2.e2a64fb5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e35da199.js",
+    "static/js/2.e2a64fb5.chunk.js",
+    "static/css/main.3fb8dbf7.chunk.css",
+    "static/js/main.2f6a7291.chunk.js"
+  ]
+}
